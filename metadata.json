@@ -1,0 +1,6 @@
+{
+  "name": "SwiftClock Studio",
+  "description": "An authentic iOS & SwiftUI Clock app and Swift CLOC (Count Lines of Code) code analyzer, featuring World Clock, Alarms, Precision Stopwatch with Laps, Radial Timer, Watch Faces, and complete Swift 6 source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
